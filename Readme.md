@@ -1,2 +1,8 @@
-M1S02 Ex 7 - While
-Utilizando um while, repita uma mini entrevista com 4 usuários perguntando qual a nota para avaliação da série "Stranger Things”, será apenas aceita três tipos de avaliação: ruim, bom e excelente. Depois verifique quantas pessoas classificaram a série como ruim.
+M1S02 Ex 8 - Calculadora
+Utilizando estrutura de repetição for realize a tabuada do número 5 e exibe em tela da seguinte forma:
+
+5 x 0 = 0
+5 x 1 = 5
+5 x 2 = 10
+....
+5 x 10 = 50
