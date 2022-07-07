@@ -1,8 +1,12 @@
-M1S02 Ex 8 - Calculadora
-Utilizando estrutura de repetição for realize a tabuada do número 5 e exibe em tela da seguinte forma:
+M1S02 Ex 9 - Mercadinho do dev
+Você foi contratado por um supermercado para catalogar a compra de uma cliente. Assim que a aplicação começa deverá ser perguntado em um prompt qual produto o cliente deseja comprar, só serão aceitas as seguintes respostas:
 
-5 x 0 = 0
-5 x 1 = 5
-5 x 2 = 10
-....
-5 x 10 = 50
+(1) Hortifruti
+(2) Laticínios
+(3) Carnes
+(4) Peixes
+(5) Aves
+(6) Fechar pedido
+Após fazer a seleção do produto pergunte a quantidade de itens que o cliente irá comprar.
+Apenas se o cliente selecionar a opção 6 é que a pergunta deverá parar de ser repetida.
+Ao selecionar a opção 6 imprima o produto que o cliente pegou em maior quantidade.
