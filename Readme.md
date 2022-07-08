@@ -1,12 +1,2 @@
-M1S02 Ex 9 - Mercadinho do dev
-Você foi contratado por um supermercado para catalogar a compra de uma cliente. Assim que a aplicação começa deverá ser perguntado em um prompt qual produto o cliente deseja comprar, só serão aceitas as seguintes respostas:
-
-(1) Hortifruti
-(2) Laticínios
-(3) Carnes
-(4) Peixes
-(5) Aves
-(6) Fechar pedido
-Após fazer a seleção do produto pergunte a quantidade de itens que o cliente irá comprar.
-Apenas se o cliente selecionar a opção 6 é que a pergunta deverá parar de ser repetida.
-Ao selecionar a opção 6 imprima o produto que o cliente pegou em maior quantidade.
+M1S02 Ex 10 - Sistemas de nota
+Pensando em um sistema de notas online, crie um código que irá capturar o nome do aluno e a nota de 4 unidades usando o prompt dentro de uma laço while, a ideia é que a cada valor digitado seja puxado para um array com o método push. Após isso, crie um laço “for” que irá calcular a soma de todos os itens do array para ser calculada sua média. Ao final de tudo, deverá ser apresentado em tela o nome do aluno, sua média e se o aluno foi aprovado ou não, para esse último tópico considere a média para aprovação maior ou igual a 7.
